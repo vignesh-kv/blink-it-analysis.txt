@@ -19,8 +19,7 @@ Outlet Size – Small / Medium / Large
 Outlet Location Type – Tier 1 / Tier 2 / Tier 3
 Outlet Type – Supermarket / Grocery Store
 
-⚠️ If the dataset is larger than 100MB, you can upload it to Google Drive or Kaggle and replace the link below:
-Dataset Link
+
 
 🛠️*Tools & Libraries Used*
 
